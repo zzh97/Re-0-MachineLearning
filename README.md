@@ -79,13 +79,19 @@ pip install pywebview
 ![](./images/16.png)
 ![](./images/17.png)
 ![](./images/18.png)
+
 然后再运行`pip install pywebview`
 ![](./images/19.png)
+
 https://slproweb.com/products/Win32OpenSSL.html
 去这里下载一个东西就好了
+
 ![](./images/20.png)
+
 再运行`pip install pywebview`
+
 ![](D:/zzhData/notes/PyWebView/py_img/21.png)
+
 现在，就成功安装pywebview了
 
 此时，新建一个python文件，然后编写代码
@@ -98,6 +104,7 @@ webview.start()
 ```
 
 ![](./images/22.png)
+
 编写好后，在(同级目录下的)终端运行它
 
 ```
@@ -105,8 +112,10 @@ python a.py
 ```
 
 此时，你有可能需要将python也添加至环境变量
+
 ![](./images/23.png)
 ![](./images/24.png)
+
 然后运行`python a.py`就好了
 
 
